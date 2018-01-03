@@ -22,7 +22,7 @@ setup(name='ShadowSocks-share',
       long_description=readme,
 
       # Author details
-      author='Charles Xu',
+      author='CharlesXu',
       author_email='charl3s.xu@gmail.com',
 
       # Project details
